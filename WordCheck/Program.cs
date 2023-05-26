@@ -27,5 +27,9 @@
             }
             return reverse;
         }
+        public bool IsEmpty(string input)
+        {
+            return input.Length == 0 ? true : false;
+        }
     }
 }
