@@ -1,0 +1,15 @@
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\obj\Debug\net6.0\WordCheck.csproj.AssemblyReference.cache
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\obj\Debug\net6.0\WordCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\obj\Debug\net6.0\WordCheck.AssemblyInfoInputs.cache
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\obj\Debug\net6.0\WordCheck.AssemblyInfo.cs
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\obj\Debug\net6.0\WordCheck.csproj.CoreCompileInputs.cache
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\bin\Debug\net6.0\WordCheck.exe
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\bin\Debug\net6.0\WordCheck.deps.json
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\bin\Debug\net6.0\WordCheck.runtimeconfig.json
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\bin\Debug\net6.0\WordCheck.dll
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\bin\Debug\net6.0\WordCheck.pdb
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\obj\Debug\net6.0\WordCheck.dll
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\obj\Debug\net6.0\refint\WordCheck.dll
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\obj\Debug\net6.0\WordCheck.pdb
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\obj\Debug\net6.0\WordCheck.genruntimeconfig.cache
+C:\Users\leost\Desktop\TDD\TDD\WordCheck\obj\Debug\net6.0\ref\WordCheck.dll
